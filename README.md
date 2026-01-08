@@ -16,7 +16,7 @@ This repository contains the code and analysis pipeline for the study **"Time-Fr
 
 **Conclusions**: The results of this study demonstrate the unique time-frequency state of influenza co-circulation periods. Influenza co-circulation is not simply a superposition of strains but triggers changes in the influenza transmission system. This indicates that public health strategies need to be context-adaptive: northern regions can continue to rely on meteorological warnings, while during co-circulation periods in southern regions, reliance on environmental indicators should be reduced, instead strengthening real-time etiological and serological surveillance.
 
-![Framework](figures/figure1_framework.pdf)
+![Framework](figures/figure1_framework.png)
 *Figure 1: The Four-Step Multi-Scale Analysis Framework (STL-AFD-CWT-WTC).*
 
 ## Key Findings
@@ -25,14 +25,14 @@ This repository contains the code and analysis pipeline for the study **"Time-Fr
     *   Co-circulation periods exhibit fundamentally different dynamic mechanisms compared to single-dominant periods.
     *   During co-circulation, the influenza system undergoes a regime shift, characterized by significantly increased **Seasonality Shift** and the emergence of high-intensity anomalous fluctuations in the residual component.
 
-    ![STL Dynamics Comparison](figures/figure3_stl_comparison.pdf)
+    ![STL Dynamics Comparison](figures/figure3_stl_comparison.png)
     *Figure 3: Comparison of STL dynamics between single-dominant and co-circulation periods. Note the increased residual volatility during co-circulation.*
 
 2.  **Spatiotemporal Heterogeneity**:
     *   **Northern China ("Environmental Locking")**: Epidemics remain strongly constrained by harsh climate conditions even during co-circulation periods.
     *   **Southern China ("Environmental Decoupling")**: Ecological competition between viruses often surpasses environmental driving forces (such as humidity and temperature). This is particularly evident during H3N2 co-circulation periods, leading to the failure of traditional environmental predictive factors.
 
-    ![Integrated Statistics](figures/figure6_integrated_stats.pdf)
+    ![Integrated Statistics](figures/figure6_integrated_stats.png)
     *Figure 6: Integrated statistical analysis showing distinct patterns between Northern and Southern China.*
 
 3.  **Implications for Public Health**:

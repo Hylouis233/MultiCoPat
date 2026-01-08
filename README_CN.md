@@ -14,7 +14,7 @@
 
 **结论**：本研究结果证明流感共流行期的独特时频状态，流感共流行并非简单的毒株叠加，而是引发流感传播系统的改变。表明公共卫生策略需具备情境适应性，北方地区可继续依赖气象预警，而在南方共流行期间，应降低对环境指标的依赖，转而加强实时的病原学与血清学监测。
 
-![框架图](figures/figure1_framework.pdf)
+![框架图](figures/figure1_framework.png)
 *图 1: 分析框架 (STL-AFD-CWT-WTC)*
 
 ## 主要发现
@@ -23,14 +23,14 @@
     *   共流行期与单一主导期具有根本不同的动态机制。
     *   在共流行期间，流感系统经历了一次机制转换，其特征是 **季节性漂移** 显著增加，且残差分量中涌现出高强度的异常波动。
 
-    ![STL 动力学对比](figures/figure3_stl_comparison.pdf)
+    ![STL 动力学对比](figures/figure3_stl_comparison.png)
     *图 3: 单一主导期与共流行期的 STL 动力学对比。注意共流行期间残差波动的显著增加。*
 
 2.  **时空异质性 (Spatiotemporal Heterogeneity)**:
     *   **中国北方环境锁定**: 即便在共流行期，疫情仍受严酷气候条件的强力约束。
     *   **中国南方环境解耦**: 病毒间的生态竞争往往超越了环境驱动力（如湿度和温度）。这在 H3N2 共流行期间尤为明显，导致传统环境预测因子的失效。
 
-    ![综合统计分析](figures/figure6_integrated_stats.pdf)
+    ![综合统计分析](figures/figure6_integrated_stats.png)
     *图 6: 综合统计分析显示中国南北方存在显著不同的模式。*
 
 3.  **公共卫生启示 (Implications for Public Health)**:
